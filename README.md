@@ -6,4 +6,5 @@
   <li><a href="https://github.com/GabrielChiarelli/social-links-profile-frontend-mentor-newbie-01" target="_blank">Social Links Profile</a></li>
   <li><a href="https://github.com/GabrielChiarelli/results-summary-component-frontend-mentor-newbie-02" target="_blank">Results Summary Component</li>
   <li><a href="https://github.com/GabrielChiarelli/qr-code-component-frontend-mentor-newbie-03" target="_blank">QR Code Component</a></li>
+  <li><a href="https://github.com/GabrielChiarelli/recipe-page-frontend-mentor-newbie-04" target="_blank">Recipe page</a></li>
 </ol>
