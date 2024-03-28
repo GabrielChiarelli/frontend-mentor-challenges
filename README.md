@@ -8,6 +8,6 @@
   <li><a href="https://github.com/GabrielChiarelli/qr-code-component-frontend-mentor-newbie-03" target="_blank">QR Code Component</a></li>
   <li><a href="https://github.com/GabrielChiarelli/recipe-page-frontend-mentor-newbie-04" target="_blank">Recipe page</a></li>
   <li><a href="https://github.com/GabrielChiarelli/blog-preview-card-frontend-mentor-newbie-05" target="_blank">Blog preview card</a></li>
-  <li><a href=https://github.com/GabrielChiarelli/faq-accordion-frontend-mentor-newbie-06" target="_blank">FAQ accordion</a></li>
+  <li><a href="https://github.com/GabrielChiarelli/faq-accordion-frontend-mentor-newbie-06" target="_blank">FAQ accordion</a></li>
   <li><a href="https://github.com/GabrielChiarelli/product-preview-card-component-frontend-mentor" target="_blanl">Product preview card component</a></li>
 </ol>
