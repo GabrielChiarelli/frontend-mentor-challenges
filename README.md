@@ -11,4 +11,5 @@
   <li><a href="https://github.com/GabrielChiarelli/faq-accordion-frontend-mentor-newbie-06" target="_blank">FAQ accordion</a></li>
   <li><a href="https://github.com/GabrielChiarelli/product-preview-card-component-frontend-mentor" target="_blanl">Product preview card component</a></li>
   <li><a href="https://github.com/GabrielChiarelli/interactive-rating-component-frontend-mentor-08" target="_blank">Interactive rating component</a></li>
+  <li><a href="https://github.com/GabrielChiarelli/nft-preview-card-component-frontend-mentor" target="_blank">NFT preview card component</a></li>
 </ol>
