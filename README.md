@@ -14,4 +14,5 @@
   <li><a href="https://github.com/GabrielChiarelli/nft-preview-card-component-frontend-mentor" target="_blank">NFT preview card component</a></li>
   <li><a href="https://github.com/GabrielChiarelli/order-summary-component-frontend-mentor" target="_blank">Order summary component</a></li>
   <li><a href="https://github.com/GabrielChiarelli/stats-preview-card-component-frontend-mentor" target="_blank">Stats preview card component</a></li>
+  <li><a href="https://github.com/GabrielChiarelli/3-column-preview-card-component-frontend-mentor" target="_blank">3-column preview card component</a></li>
 </ol>
